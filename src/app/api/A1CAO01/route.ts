@@ -9,15 +9,12 @@ export async function GET(request: NextRequest) {
 	const month = searchParams.get('month');
 
   const headers = {
-    'Access-Control-Allow-Origin': 'http://localhost:3000', // 許可するオリジン
-    'Access-Control-Allow-Methods': 'GET,OPTIONS',         // 許可するHTTPメソッド
-    'Access-Control-Allow-Headers': 'Content-Type',        // 許可するヘッダー
+    'Access-Control-Allow-Origin': 'http://localhost:3000',
+    'Access-Control-Allow-Methods': 'GET, OPTIONS, POST, PUT, PATCH, DELETE',
+    'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+    'Access-Control-Allow-Credentials': 'true'
   };
 
-  // プリフライトリクエスト対応 (OPTIONS)
-  if (request.method === 'OPTIONS') {
-    return NextResponse.json(null, { status: 204, headers });
-  }
 
   if (simulateError) {
     return NextResponse.json(
