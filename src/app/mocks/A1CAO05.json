@@ -1,0 +1,146 @@
+{
+  "crdKnrNo": "",
+  "seckaiinNo": "",
+  "crdName": "TOYOTA TS CUBIC CARD",
+  "crdBrandName": "VISA",
+  "crdGradeName": "レギュラー",
+  "crdKaiinNo4F": "****-****-****-1234",
+  "crdImg": "img_tmb_header_02.png",
+  "crdComCd": "",
+  "crdTupMedCd": "",
+  "crdComCd1": "",
+  "crdComCd2": "",
+  "crdBrdCd": "",
+  "crdKndCd": "",
+  "zkCd": "0",
+  "rymsPdfList": [
+    {
+      "udtlDpayYm": "201911",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "201912",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202001",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202002",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202003",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202004",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202005",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202006",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202007",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202008",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202009",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202010",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202011",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202012",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202101",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202102",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202103",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202104",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202105",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202106",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202107",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202108",
+      "udtlDpayYmd": "",
+      "pdfFlg": "0"
+    },
+    {
+      "udtlDpayYm": "202109",
+      "udtlDpayYmd": "20210902",
+      "pdfFlg": "1"
+    },
+    {
+      "udtlDpayYm": "202110",
+      "udtlDpayYmd": "20211002",
+      "pdfFlg": "1"
+    }
+  ],
+
+  "resultCd": "0000",
+  "errorList": [
+    {
+      "errorCode": "",
+      "errorMessage": ""
+    }
+  ]
+}

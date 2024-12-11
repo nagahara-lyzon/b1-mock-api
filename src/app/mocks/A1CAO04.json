@@ -1,0 +1,39 @@
+{
+  "kessaiDayInf": [
+    {
+      "kessaiYm": "202106",
+      "kessaiYmFlg": "0"
+    },
+    {
+      "kessaiYm": "202107",
+      "kessaiYmFlg": "0"
+    },
+    {
+      "kessaiYm": "202108",
+      "kessaiYmFlg": "0"
+    },
+    {
+      "kessaiYm": "202109",
+      "kessaiYmFlg": "0"
+    },
+    {
+      "kessaiYm": "202110",
+      "kessaiYmFlg": "0"
+    },
+    {
+      "kessaiYm": "202111",
+      "kessaiYmFlg": "1"
+    },
+    {
+      "kessaiYm": "202112",
+      "kessaiYmFlg": "0"
+    }
+  ],
+  "resultCd": "0000",
+  "errorList": [
+    {
+      "errorCode": "",
+      "errorMessage": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "crdKnrNo": "",
+  "seckaiinNo": "",
+  "crdName": "TOYOTA TS CUBIC CARD",
+  "crdBrandName": "VISA",
+  "crdGradeName": "レギュラー",
+  "crdKaiinNo4F": "****-****-****-1234",
+  "crdImg": "img_tmb_header_02.png",
+  "crdComCd": "",
+  "crdTupMedCd": "",
+  "crdComCd1": "",
+  "crdComCd2": "",
+  "crdBrdCd": "",
+  "crdKndCd": "",
+  "zkCd": "0",
+  "riyoAmt": "",
+  "seikyuAmt": "",
+  "revoGk": "",
+  "clGk": "",
+  "nextKey": "",
+  "kessaiYmd": "20220102",
+  "kakuteiStatusFlg": "",
+  "atoRevoFlg": "",
+  "rymsList": [],
+  "resultCd": "0000",
+  "errorList": [
+    {
+      "errorCode": "",
+      "errorMessage": ""
+    }
+  ]
+}
