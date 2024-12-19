@@ -1,0 +1,32 @@
+{
+  "crdKnrNo": "",
+  "seckaiinNo": "",
+  "crdName": "",
+  "crdBrandName": "",
+  "crdGradeName": "",
+  "crdKaiinNo4F": "",
+  "crdImg": "",
+  "crdComCd": "",
+  "crdTupMedCd": "",
+  "crdComCd1": "",
+  "crdComCd2": "",
+  "crdBrdCd": "",
+  "crdKndCd": "",
+  "zkCd": "",
+  "riyoAmt": "",
+  "seikyuAmt": "",
+  "revoGk": "",
+  "clGk": "",
+  "nextKey": "",
+  "kessaiYmd": "",
+  "kakuteiStatusFlg": "",
+  "atoRevoFlg": "",
+  "rymsList": [],
+  "resultCd": "0001",
+  "errorList": [
+    {
+      "errorCode": "",
+      "errorMessage": ""
+    }
+  ]
+}
