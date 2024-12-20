@@ -3,7 +3,7 @@ import A1CAO04 from '@/app/mocks/A1CAO04.json';
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
-  const simulateError = searchParams.get('error') === 'true';
+  const simulateError = searchParams.get('error');
 
   const headers = {
     'Access-Control-Allow-Origin': 'http://localhost:3000',
@@ -11,13 +11,9 @@ export async function GET(request: NextRequest) {
     'Access-Control-Allow-Headers': 'Content-Type, Authorization',
     'Access-Control-Allow-Credentials': 'true'
   };
-
-  if (simulateError) {
-    return NextResponse.json(
-      { message: 'Internal Server Error' },
-      { status: 500, headers }
-    );
-  }
+  if (simulateError === '1') {
+		return NextResponse.json({ message: 'Internal Server Error' }, { status: 500, headers });
+	}
 
   return NextResponse.json(A1CAO04, { headers });
 }
