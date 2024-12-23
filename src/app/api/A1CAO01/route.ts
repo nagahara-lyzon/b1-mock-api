@@ -7,7 +7,7 @@ import A1CAO01_error from '@/app/mocks/A1CAO01_error.json';
 export async function GET(request: NextRequest) {
 	const { searchParams } = new URL(request.url);
 	const simulateError = searchParams.get('error');
-	const month = searchParams.get('month');
+	const month = searchParams.get('kessaiYm');
 
 	const headers = {
 		'Access-Control-Allow-Origin': 'http://localhost:3000',
